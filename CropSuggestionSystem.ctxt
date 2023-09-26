@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CropSuggestionSystem
+comment1.params=
+comment1.target=void\ crop()
+comment2.params=currentMonth
+comment2.target=java.lang.String\ suggestCrop(int)
+comment3.params=crop
+comment3.target=void\ displayCashCropRequirements(java.lang.String)
+comment4.params=crop
+comment4.target=void\ displayFoodCropRequirements(java.lang.String)
+numComments=5
